@@ -1,0 +1,6 @@
+2025-03-08 12:10:13.205 xcodebuild[36665:4973554] Writing error result bundle to /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/ResultBundle_2025-08-03_12-10-0013.xcresult
+xcodebuild: error: Unable to find a destination matching the provided destination specifier:
+		{ id:77CA7B1E-9DA6-4A59-9233-B19FD1CFA161 }
+
+	Ineligible destinations for the "EVChargingAppStation" scheme:
+		{ platform:iOS, id:dvtdevice-DVTiPhonePlaceholder-iphoneos:placeholder, name:Any iOS Device, error:iOS 18.2 is not installed. To use with Xcode, first download and install the platform }

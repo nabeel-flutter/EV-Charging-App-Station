@@ -1,0 +1,6 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project /Users/nabeel/Desktop/react_native/EV-Charging-App-Station/ios/EVChargingAppStation.xcodeproj -configuration Debug -scheme EVChargingAppStation -destination id=77CA7B1E-9DA6-4A59-9233-B19FD1CFA161
+
+User defaults from command line:
+    IDEPackageSupportUseBuiltinSCM = YES
+
